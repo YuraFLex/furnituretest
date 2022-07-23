@@ -1,0 +1,24 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  display: block;
+}
+
+.section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.no-pt {
+  padding-top: 0;
+}
+
+.text-left {
+  text-align: left;
+}
